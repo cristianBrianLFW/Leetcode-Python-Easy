@@ -1,0 +1,15 @@
+{
+  "id": 13,
+  "title": "Roman to Integer",
+  "difficulty": "easy",
+  "topics": ["math", "hash-table", "string"],
+  "language": "python",
+  "status": "resolved",
+  "solutions": [
+    {
+      "id": "v1",
+      "label": "Versão"
+    }
+  ],
+  "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/"
+}

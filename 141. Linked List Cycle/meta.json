@@ -1,0 +1,19 @@
+{
+  "id": 141,
+  "title": "Linked List Cycle",
+  "difficulty": "easy",
+  "topics": ["math", "hash-table", "string"],
+  "language": "python",
+  "status": "resolved",
+  "solutions": [
+    {
+      "id": "v1",
+      "label": "versao espaco O(n)"      
+    },
+    {
+        "id": "v2",
+        "label" :"versao espaco o(1)"
+    }
+  ],
+  "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle"
+}

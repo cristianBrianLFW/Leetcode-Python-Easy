@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "title": "Two Sum",
+  "difficulty": "easy",
+  "topics": ["array", "hash-table"],
+  "language": "python",
+  "status": "resolved",
+  "solutions": [
+    {
+      "id": "v1",
+      "label": "Usando enumerate 2 vezes"
+    },
+    {
+      "id": "v2",
+      "label": "Usando enumerate 1 vez"
+    }
+
+  ],
+  "leetcodeUrl": "https://leetcode.com/problems/two-sum/"
+}
